@@ -1,11 +1,14 @@
-# SnapSearch
+
 
 ![Screenshot (75)](https://github.com/user-attachments/assets/6b075653-18dd-4168-9fb7-1e66e709694e)
 
 
+
+# SnapSearch
+
 ## Overview
 
-The **Image Search App** is a user-friendly web application designed to help users search and explore images based on their queries. Built using **HTML, CSS, and JavaScript**, this app offers a simple yet powerful interface for browsing through images related to various topics. Whether you're looking for inspiration, reference material, or just browsing through visually stunning content, this app provides a fast and seamless image search experience.
+The **SnapSearch** app is a user-friendly web application designed to help users search and explore images based on their queries. Built using **HTML, CSS, and JavaScript**, this app offers a simple yet powerful interface for browsing through images related to various topics. Whether you're looking for inspiration, reference material, or just browsing through visually stunning content, this app provides a fast and seamless image search experience.
 
 ## Features
 
@@ -34,12 +37,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ImageSearchApp.git
+   git clone https://github.com/yourusername/SnapSearch.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd ImageSearchApp
+   cd SnapSearch
    ```
 
 3. Open `index.html` in your web browser to start the app.
@@ -52,5 +55,5 @@ To run this project locally, follow these steps:
 
 ## Conclusion
 
-The Image Search App is designed to provide a fast, reliable, and visually appealing platform for users to search and explore images. It’s perfect for anyone looking for inspiration, references, or just a fun image browsing experience. With its efficient use of HTML, CSS, and JavaScript, the app is not only functional but also elegant and easy to use.
+The SnapSearch app is designed to provide a fast, reliable, and visually appealing platform for users to search and explore images. It’s perfect for anyone looking for inspiration, references, or just a fun image browsing experience. With its efficient use of HTML, CSS, and JavaScript, the app is not only functional but also elegant and easy to use.
 
